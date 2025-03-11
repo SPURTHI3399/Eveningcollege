@@ -1,1 +1,2 @@
-printf("vvce");
+print("vvce");
+print("MYSORE");
